@@ -2,6 +2,10 @@
 对okhttp的封装类，okhttp见：[https://github.com/square/okhttp](https://github.com/square/okhttp).
 
 
+Android Https相关完全解析 当OkHttp遇到Https，请参照以下
+http://blog.csdn.net/lmj623565791/article/details/48129405
+
+
 
 ## 用法
 
